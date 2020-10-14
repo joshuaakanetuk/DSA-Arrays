@@ -112,7 +112,7 @@ function two(arr) {
 
   return arr;
 }
-
+// O(n ^ k)
 console.log(
   two([
     [1, 0, 1, 1, 0],
@@ -124,5 +124,5 @@ console.log(
 );
 
 function stringRotation(str1, str2) {
-    
+
 }
